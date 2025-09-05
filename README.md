@@ -2,7 +2,7 @@
 
 Prototype project developed with **Unreal Engine 5** showcasing quest, AI, puzzle, and interaction systems.
 
-🎥 **Video showcase:** [Watch on YouTube](https://youtu.be/CYYZT4Gxnj8)
+**Video showcase:** https://youtu.be/CYYZT4Gxnj8
 
 ## Features
 
